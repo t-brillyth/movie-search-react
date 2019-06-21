@@ -29,6 +29,29 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
+
+
+**--**
+Preguntas
+1. ¿ En qué consiste el principio de responsabilidad única? 
+RPT// 
+Una clase o módulo debe tener una sola razón para cambiar, porque debe tener una sola responsabilidad. Además esa clase debe ser la única con esa responsabilidad. Es decir, si tenemos que cambiar una clase, que sea por una única razón.
+
+2. ¿Cuál es su propósito?
+RPT// Mejorar mi aprendizaje para poder crear mi agencia, y poder desenvolverme bien en el campo en el que me estoy centrando.
+
+3. ¿Qué características tiene, según su opinión, un “buen” código o código limpio?
+RPT//
+      Debe ser un código claro y fácil de entender
+      Debe ser un código consistente 
+      Deben implementar en principio de responsabilidad única
+      Debe estar comentado 
+      Evitar duplicación para poder reutilizar el código
+*--------------------------------*
+
+
+
+
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
